@@ -16,7 +16,7 @@
             <input type="password" class="form-control" name="c_password" required="">
         </div>
         <div class="text-center">
-            <button name="login" value="login" class="btn btn-primary">
+            <button name="login" class="btn btn-primary">
                 <i class="fa fa-sign-in"></i>Login
             </button>
         </div>
